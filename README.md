@@ -4,7 +4,7 @@
 
 
 - 👯 I’m an Electrical Engineer graduate at Universidade Federal da Paraiba in Brazil(UFPB - 2019) with specialization in Eletronics, embedded system and Machine/Deep Learning (Computer Vision (CV) and Natural Language Processing (NLP)).
-- 🌱 I’m currently learning Solidity and blockchain applications in special descentralized applications using hardhat environment and javascript (node js) for the backend applications, and next js for the front-end applications.
+- 🌱 I’m currently learning Solidity and blockchain applications in special descentralized applications on EVM systems using hardhat environment and javascript (node js) for the backend applications, and next js for the front-end applications.
 - 🔭 I’m currently looking for opportunities.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rodrigoamorimml)
